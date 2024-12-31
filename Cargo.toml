@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+
+members = ["src/libs/kviewkube", "src/cli"]
+
+[workspace.dependencies]
